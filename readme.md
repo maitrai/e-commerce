@@ -23,7 +23,7 @@ This project is using the following technology stack:
   - jQuery (for the frontend)
   - Stripe (payment gateway)
 
-This project resembles an ecommerce website with full features such as user authentication and authorization, session managing, search and payment features. Our team is: [person1], [person2], [person3], [person4] and [person5][df1]
+This project resembles an ecommerce website with full features such as user authentication and authorization, session managing, search and payment features. 
 
 > The README is structured as a self-contained
 > book, where each chapter reveals details
@@ -601,6 +601,4 @@ A **package.json** file contains meta data about your app or module. Most import
     └── partials
 ```
 
-
-
-#### We would like to thank Arash Yahya for his course on Udemy that guided this small project
+ 
